@@ -1,0 +1,65 @@
+{
+  "program": {
+    "candyMachine": "98aHnPgsRnYJUpZkKovSgfwqiUKTmUVJ9WBVwizgHFLJ",
+    "candyMachineCreator": "J5KSTmbBgUsu2kVEG7KRHvUt8MiVL4TukHs19CYGVRdk",
+    "collectionMint": "J9gqGqqeDiWJ4SMh1TacUkKjKCLaBR9DSxqp6FnHKQeM"
+  },
+  "items": {
+    "-1": {
+      "name": "Tartan Gulls Collection",
+      "image_hash": "74f8001399daf45396300c64b3093bd2238c3495e8c94fa14508fe2dcc68fb02",
+      "image_link": "https://arweave.net/w2noIuQdmnQRf9x2uuhR__5eK79nZio0fIlSotWx07A?ext=jpg",
+      "metadata_hash": "3bf090c5c41974f9e07fde188f153a3b291495272326042cafd141d9c9bee0c9",
+      "metadata_link": "https://arweave.net/Ru7Q1fu40Ep8A0pW_2zir5KK_6YVYNOq1GBM4AYSjPw",
+      "onChain": true
+    },
+    "0": {
+      "name": "Tartan Gulls #1",
+      "image_hash": "a8451380f1b4e1f10dffec8bbb7d62ccad3e6d2ba16baed9d3505687da67a2d1",
+      "image_link": "https://arweave.net/lvVKbqI8Zc9_wq7iju8ZN9GB_YzWkU7AmJzCyZKzf00?ext=jpg",
+      "metadata_hash": "625a44a095447fc5b7a833f5ffac2144608e4d624377317bd4d3d0e6bc28a203",
+      "metadata_link": "https://arweave.net/IeoC0BtX7ltKGODrPknW0rDuugFNAOcsfDHQZz-3h74",
+      "onChain": true
+    },
+    "1": {
+      "name": "Tartan Gulls #2",
+      "image_hash": "dff1d81044afcca64c5d5c979a4e459815f7ff6de0563b48bb954ef4cc886747",
+      "image_link": "https://arweave.net/qEDIv-sqQ2mPABqS4rV9RkD2XmXkqTegRmIk1nP_HAE?ext=jpg",
+      "metadata_hash": "45633af5c9234ec04bdf66d0e6e4ff175079190af52a583b6a10513696c3a23b",
+      "metadata_link": "https://arweave.net/nCaEbPS7F5CIKgT4Ui4m7pIYKWF3kDHbJiemUdHoD3c",
+      "onChain": true
+    },
+    "2": {
+      "name": "Tartan Gulls #3",
+      "image_hash": "5be64f96eb835b49cd50be1533f6fbe9c987b130e0c90b425dc7f0a91c12f82d",
+      "image_link": "https://arweave.net/XLjEoOgZT_2WJu26XwRNsuz3mvYaYD6k8d1zuZtJgZw?ext=jpg",
+      "metadata_hash": "139ba151a14e0c9b763068d00a03264647a9e267f68491ff0254ab0328811397",
+      "metadata_link": "https://arweave.net/6KXlK9ry2VTqzc8zyoHMGHnlcISLLtFaceK8f6Q3iC0",
+      "onChain": true
+    },
+    "3": {
+      "name": "Tartan Gulls #4",
+      "image_hash": "2c1fe2b921613dff9a245bc295f3d64ec8dcb95594caac4103f5dbac3167aaad",
+      "image_link": "https://arweave.net/PgS4gwC2Q_8J0KsLNRm8fBvzOgODqq6pqutzXJkLuME?ext=jpg",
+      "metadata_hash": "79de1909fd778748613f02caa6108be2b48b80b311ffc7e2350312c919ad4d9a",
+      "metadata_link": "https://arweave.net/PtHJVq8d3zjOou2KzvSsnM0_o0Lo6PHO-LqACU7P790",
+      "onChain": true
+    },
+    "4": {
+      "name": "Tartan Gulls #5",
+      "image_hash": "34a2d993e4f1fab828ed0b8750278de6215a74288158d62edeef527251cfb289",
+      "image_link": "https://arweave.net/RyxoNQc5hwLfJ9OSkcv_5YAcmYPzObpPfvcxRA-Z0uw?ext=jpg",
+      "metadata_hash": "d44bb0f1155e652dad124eeca32ad93c731e39093e8f6abd93c9a4b1e766e084",
+      "metadata_link": "https://arweave.net/Cymys3nLgkFdzFtN_TutgDccW8O2kfrbBDqQHOzCsXI",
+      "onChain": true
+    },
+    "5": {
+      "name": "Tartan Gulls #6",
+      "image_hash": "492978fea3e1823d43333678280bbddabbf7098c65bce88e96f6cf7f66fb246c",
+      "image_link": "https://arweave.net/pXZUbTAQJv9QnbaQI-bgTUqNShkK5M42iWsEiT2lzX8?ext=jpg",
+      "metadata_hash": "9672bb580efb5a14d0adee38ae10b5f8a7dee18ff9e392e369fa430a515bd621",
+      "metadata_link": "https://arweave.net/kclAyLK7FKGquJ2059yrdsk0T1k1wipXaVI8PvPg-VQ",
+      "onChain": true
+    }
+  }
+}

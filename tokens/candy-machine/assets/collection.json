@@ -1,0 +1,15 @@
+{
+    "name": "Tartan Gulls Collection",
+    "symbol": "GULLS",
+    "description": "Collection of 6 seagulls who are absolute best.",
+    "image": "collection.jpg",
+    "attributes": [],
+    "properties": {
+      "files": [
+        {
+          "uri": "collection.jpg",
+          "type": "image/jpg"
+        }
+      ]
+    }
+  }

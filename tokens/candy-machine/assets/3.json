@@ -1,0 +1,28 @@
+{
+    "name": "Tartan Gulls #4",
+    "symbol": "GULLS",
+    "description": "The Tartan gulls are rebellious seagulls who live life their own fucking way ",
+    "image": "3.jpg",
+    "attributes": [
+        {
+            "trait_type": "vehicle",
+            "value": "scooter"
+        },
+        {
+            "trait_type": "dress",
+            "value": "skirt"
+        },
+        {
+            "trait_type": "mood",
+            "value": "sexy"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "3.jpg",
+                "type": "image/jpg"
+            }
+        ]
+    }
+}
